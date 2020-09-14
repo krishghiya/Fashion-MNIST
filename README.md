@@ -1,7 +1,7 @@
 # mnist
-Based on the MNIST dataset
+Based on the Fashion-MNIST dataset
+
+Uses Convolutional and Pooling Layers to achieve a categorization accuracy of 99.3%
 
 Dataset available at:
-https://www.kaggle.com/c/digit-recognizer/
-
-Categorization accuracy of 96.7%
+https://www.kaggle.com/zalando-research/fashionmnist
